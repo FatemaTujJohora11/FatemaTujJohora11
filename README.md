@@ -59,21 +59,22 @@ The review focuses on comparing existing research, identifying key developments,
 
 **Software Engineering Team Project | Memorial University**
 
-Contributing to a collaborative software engineering project based on a fictional municipal incident-response scenario in Ottawa.
+RESPAI is a collaborative software engineering project developed around a fictional municipal incident-response scenario in Ottawa, Canada.
 
-My work includes after-action PDF report generation, software testing, reproducibility checks, and technical documentation. The project also involves GitHub-based collaboration, including branches, issues, and pull requests.
+As part of the project team, I have been contributing to the development and testing of the after-action reporting functionality.
 
-The repository is private, so project materials are not publicly available.
+My work includes generating PDF reports, writing and running automated tests, checking reproducibility, and maintaining technical documentation.
 
-## Professional Experience
+I also participate in GitHub-based collaboration, including working with branches, issues, pull requests, and code reviews.
 
-### Digital Training – AI Intern | ACENET
+This project has given me practical experience in software testing, reporting, technical documentation, and collaborative software development.
 
-At ACENET, I contribute to the development of beginner-friendly learning materials for an Introduction to Large Language Models course.
+**Tools and Technologies:** Python, pytest, Git, GitHub, PDF Reporting
 
-My work includes organizing and explaining topics such as tokenization, embeddings, attention, Transformer architectures, and responsible AI.
+**Project Status:** In Progress
 
-I also support participants during Python, Machine Learning, and LLM training sessions, helping with exercises, technical questions, and troubleshooting.
+The project repository is private and is not publicly accessible.
+
 
 ## Independent Training Capstone
 
