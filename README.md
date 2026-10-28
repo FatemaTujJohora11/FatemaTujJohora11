@@ -63,13 +63,20 @@ I also support participants during Python, Machine Learning, and LLM training se
 
 ## Independent Training Capstone
 
-### Beginner-Layer Checker
+### Beginner-Layer Checker AI Agent
 
-Developed an AI-assisted tool during a separate AI training program to review educational content intended for beginners.
+**Individual Capstone Project | Practical AI for Economic Developers**
 
-The tool focuses on clarity, accuracy, organization, and accessibility. I tested it with machine learning learning materials and refined its evaluation instructions based on the results.
+**Organization:** Economic Developers Association of Newfoundland and Labrador (EDANL)  
+**Training Provider:** Keyin College
 
-This capstone is separate from my ACENET internship work.
+I developed an AI-assisted agent to review beginner-level AI and LLM educational materials for technical accuracy, clarity, learning-objective alignment, and content organization.
+
+I designed the agent using ChatGPT Projects and custom instructions. During testing, it identified two intentionally misleading statements in a fictional machine learning handout and suggested corrections. I also refined its privacy instructions based on testing feedback.
+
+The project helped me gain practical experience in AI agent design, prompt engineering, content evaluation, and responsible AI.
+
+[View Project on GitHub](https://github.com/FatemaTujJohora11/beginner-layer-checker)
 
 ## AI and Machine Learning Laboratory Work
 
