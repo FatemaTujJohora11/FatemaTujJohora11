@@ -27,11 +27,20 @@ My current work brings together AI education, machine learning, academic researc
 
 ### Smart Child Emotion Detection and Session Analytics for Autism Support
 
-**Collaborative AI Project | In Progress**
+**Graduate Academic Project | Memorial University of Newfoundland**
 
-Working on an academic project exploring AI-assisted facial expression analysis and session-level observations for autism support. The project involves investigating computer vision approaches, organizing session data, and considering the practical limitations and responsible use of emotion recognition.
+This ongoing graduate project explores AI-assisted emotion detection and session analytics for autism support.
 
-The project is intended for exploratory support, not clinical diagnosis.
+I have completed and submitted the literature review. The project is currently in the progress-report stage, with the implementation and final evaluation still to be completed.
+
+**Current Progress**
+
+- Literature Review: Completed and submitted
+- Progress Report: In progress
+- Implementation: Pending
+- Final Evaluation: Pending
+
+**Project Status:** In Progress
 
 ### Evolution of Sentiment Analysis: From Lexicon-Based and Traditional Machine Learning Methods to Transformers and Large Language Models
 
