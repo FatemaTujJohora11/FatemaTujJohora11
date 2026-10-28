@@ -42,13 +42,18 @@ I have completed and submitted the literature review. The project is currently i
 
 **Project Status:** In Progress
 
-### Evolution of Sentiment Analysis: From Lexicon-Based and Traditional Machine Learning Methods to Transformers and Large Language Models
+**Evolution of Sentiment Analysis: From Lexicon-Based and Traditional Machine Learning Methods to Transformers and Large Language Models**
 
-**Academic Literature Review | In Progress**
+**Academic Literature Review | Memorial University of Newfoundland**
 
-Conducting a literature review on the development of sentiment analysis methods, from lexicon-based approaches and traditional machine learning to deep learning, Transformers, and LLMs.
+This literature review explores how sentiment analysis has evolved from traditional lexicon-based approaches and machine learning algorithms to deep learning, Transformers, and Large Language Models.
 
-The review focuses on methodological differences, strengths, limitations, and developments reported in selected research papers.
+The work examines selected research papers to understand how different methods approach sentiment classification, their strengths and limitations, and how recent developments have influenced natural language processing.
+
+The review focuses on comparing existing research, identifying key developments, and understanding the opportunities and challenges associated with modern sentiment analysis methods.
+
+**Project Status:** In Progress
+
 
 ### RESPAI — Municipal Incident Response System
 
