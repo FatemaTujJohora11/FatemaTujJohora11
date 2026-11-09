@@ -21,6 +21,7 @@ My current work brings together AI education, machine learning, academic researc
 
 - Developing beginner-friendly educational materials for an *Introduction to Large Language Models* course.
 - Creating learning content covering tokenization, embeddings, attention, Transformer architectures, and responsible AI.
+- Contributing to beginner-level deep learning course materials, including MLP and CNN learning activities and examples.
 - Supporting participants during Python, Machine Learning, and LLM training sessions by helping with exercises and technical questions.
 
 ## Selected Python Projects
