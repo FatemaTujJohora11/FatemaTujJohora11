@@ -102,7 +102,18 @@ This project involved AI agent design, prompt engineering, content evaluation, t
 
 ## AI and Machine Learning Laboratory Work
 
-Completed academic laboratory exercises involving Support Vector Regression (SVR), Support Vector Classification (SVC), RBF kernels, RMSE evaluation, car-price prediction, and image-data handling using Python, scikit-learn, pandas, and Jupyter notebooks.
+### SVC and SVR Machine Learning Lab
+
+*Academic Laboratory Project | Memorial University of Newfoundland*
+
+Completed image classification and used-car price prediction experiments using Support Vector Classification (SVC) and Support Vector Regression (SVR). Compared linear, polynomial, RBF, and sigmoid kernels through holdout, K-fold, and repeated K-fold validation.
+
+- **SVC:** 77.78% held-out test accuracy on fork, knife, and spoon images.
+- **SVR:** Best reported held-out test RMSE of 86,001.47 and R² of 0.8733.
+
+The repository documents the original coursework results alongside separately labeled portfolio-adapted Python scripts.
+
+[**View SVC–SVR Machine Learning Lab on GitHub**](https://github.com/FatemaTujJohora11/svc-svr-machine-learning-lab)
 
 ## Technical Skills
 
