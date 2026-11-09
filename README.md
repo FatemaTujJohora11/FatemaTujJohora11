@@ -53,13 +53,13 @@ I have completed and submitted the project's literature review. The project is c
 
 ### Evolution of Sentiment Analysis: From Lexicon-Based and Traditional Machine Learning Methods to Transformers and Large Language Models
 
-*Academic Literature Review | Memorial University of Newfoundland*
+*Completed Academic Literature Review | ENGI 9808, Memorial University of Newfoundland*
 
-This separate literature review examines how sentiment analysis has evolved from lexicon-based and traditional machine learning methods to deep learning, Transformers, and Large Language Models.
+Completed a 10-page IEEE-style mini-survey comparing five peer-reviewed studies (2022–2024) across lexicon-based approaches, traditional machine learning, recurrent neural networks, BERT-based Transformers, and large language models.
 
-It compares selected research studies, focusing on their methods, strengths, limitations, and developments in natural language processing.
+The review examines how language representations, model adaptation, and evaluation have evolved, with attention to **annotation quality**, **fair model comparison**, **zero-shot and few-shot learning**, **cross-lingual transfer**, and **computational trade-offs**. It also includes an evidence-quality matrix and a practical model-selection guide.
 
-**Project Status:** In Progress
+**Project Status:** Completed (academic coursework, 2026)
 
 ### RESPAI — Municipal Incident Response System
 
