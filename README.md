@@ -115,6 +115,14 @@ The repository documents the original coursework results alongside separately la
 
 [**View SVC–SVR Machine Learning Lab on GitHub**](https://github.com/FatemaTujJohora11/svc-svr-machine-learning-lab)
 
+### Machine Learning Model Comparison — Lab 2
+
+*Academic Laboratory Project | Memorial University of Newfoundland*
+
+Compared five classification algorithms on utensil images and five regression algorithms on used-car price data, including validation-based model selection and held-out testing. In the original console experiments, Random Forest achieved **88.89% image classification test accuracy** and the lowest regression test RMSE (**84,768.80**).
+
+[**View Machine Learning Model Comparison Lab on GitHub**](https://github.com/FatemaTujJohora11/machine-learning-model-comparison-lab)
+
 ## Technical Skills
 
 **Programming:** Python, Java (academic coursework)
