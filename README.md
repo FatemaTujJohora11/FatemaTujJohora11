@@ -61,6 +61,8 @@ The review examines how language representations, model adaptation, and evaluati
 
 **Project Status:** Completed (academic coursework, 2026)
 
+[**View Sentiment Analysis Literature Review on GitHub**](https://github.com/FatemaTujJohora11/sentiment-analysis-literature-review)
+
 ### RESPAI — Municipal Incident Response System
 
 *Software Engineering Team Project | Memorial University of Newfoundland*
